@@ -1,0 +1,11 @@
+/api/v1/docs
+/api/v1/swagger
+/api/v1/swagger/docs/swagger.json
+/api/v1/swagger.json
+/api/v2/docs
+/api/v2/swagger/
+/api/v2/swagger.json
+/api/swagger/docs
+/api/swagger/public
+/api/v1/swagger/public
+/api/v2/swagger/public
