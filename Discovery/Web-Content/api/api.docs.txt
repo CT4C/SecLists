@@ -9,3 +9,4 @@
 /api/swagger/public
 /api/v1/swagger/public
 /api/v2/swagger/public
+/api/documentation
